@@ -13,3 +13,8 @@ Installing is easy. Just [follow the steps in the Statamic docs](https://statami
 - [Statamic 3 Core Package Repo][cms-repo]
 - [Statamic 3 Migrator](https://github.com/statamic/migrator)
 - [Statamic Discord][discord]
+
+[docs]: https://statamic.dev/
+[discord]: https://statamic.com/discord
+[contribution]: https://github.com/statamic/cms/blob/master/CONTRIBUTING.md
+[app-repo]: https://github.com/statamic/statamic
