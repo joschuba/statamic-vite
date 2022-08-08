@@ -9,9 +9,9 @@ Installing is easy. Just [follow the steps in the Statamic docs](https://statami
 ## Important Links
 
 - [Statamic Main Site](https://statamic.com)
-- [Statamic 3 Documentation][docs]
-- [Statamic 3 Core Package Repo][cms-repo]
-- [Statamic 3 Migrator](https://github.com/statamic/migrator)
+- [Statamic Documentation][docs]
+- [Statamic Application Repo][app-repo]
+- [Statamic Migrator](https://github.com/statamic/migrator)
 - [Statamic Discord][discord]
 
 [docs]: https://statamic.dev/
