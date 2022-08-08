@@ -1,0 +1,10 @@
+export_paths:
+  - content
+  - resources/blueprints
+  - resources/views
+  - public/build
+  - package.json
+  - package-lock.json
+  - postcss.config.js
+  - vite.config.js
+  - README.md

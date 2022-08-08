@@ -1,0 +1,9 @@
+{
+    "name": "joschuba/statamic-vite",
+    "extra": {
+        "statamic": {
+            "name": "Statamic Vite Starter Kit",
+            "description": "Just like a default Statamic install, just with Vite instead of Mix."
+        }
+    }
+}
